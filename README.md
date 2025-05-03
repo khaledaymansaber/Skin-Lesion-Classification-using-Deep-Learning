@@ -71,7 +71,7 @@ The model was trained and evaluated using metrics and visualizations such as:
 - Confusion matrix  
 - Classification report (precision, recall, F1-score)
 
-*Note: Accuracy numbers are omitted here; feel free to include them if desired.*
+
 
 ---
 
